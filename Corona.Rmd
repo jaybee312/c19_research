@@ -207,7 +207,7 @@ total_cases = rbind(total_cases, mort_rate)
 
 print(total_cases)
 
-sum = coronavirus %>% group_by(Country.Region) %>% summarise(cases = sum(cases)) %>% arrange(desc(cases))
+sum = coronavirus %>% filter(type == "confirmed") %>% group_by(Country.Region) %>% summarise(cases = sum(cases)) %>% arrange(desc(cases))
 
 print(sum)
 
