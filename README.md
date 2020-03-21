@@ -1,12 +1,14 @@
-# c19_research
-*Data for this workbook was pulled using code found here: https://github.com/RamiKrispin/coronavirus
+# COVID19 Analysis
+*Raw Data for this workbook was pulled using code found here: https://github.com/RamiKrispin/coronavirus
 
-I'll be updating this periodically. My goal is to understand growth of COVID 19 from January 2020 forward.
+I'll be updating this periodically. My goal is to understand COVID19 growth.
 
-# 3/20/2020
+## 3/20/2020
 
-Added US Trends with focus on states with higher cases
+Added US Trends with focus on states with higher cases. Looking to understand impact of Shelter in Place or lack thereof various states.
 
-# 3/21/2020
+*Impacts of shelter in place could be lagging. Other considerations for future analysis: Atypical flu cases, geographic isolation, population density, occupation, income, age, access to heathcare
+
+## 3/21/2020
 
 Added Italy Trends. Death growth was flat for a couple of days prior to a huge jump on 3/20. 
