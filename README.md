@@ -5,7 +5,7 @@ I'll be updating this periodically. My goal is to understand COVID19 growth.
 
 ## 3/20/2020
 
-Added US Trends with focus on states with higher cases. Looking to understand impact of Shelter in Place or lack thereof various states.
+Added US Trends with focus on states with higher cases. Looking to understand impact of Shelter in Place or lack thereof in various states.
 
 *Impacts of shelter in place could be lagging. Other considerations for future analysis: Atypical flu cases, geographic isolation, population density, occupation, income, age, access to heathcare
 
