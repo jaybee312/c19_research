@@ -12,3 +12,7 @@ Added US Trends with focus on states with higher cases. Looking to understand im
 ## 3/21/2020
 
 Added Italy Trends. Death growth was flat for a couple of days prior to a huge jump on 3/20. 
+
+Added France and worldwide trends. 
+
+*Probably worth segmenting world trends into more granular groups as combining S. Korea with US data isn't very informative.
